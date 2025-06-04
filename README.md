@@ -5,4 +5,4 @@
 
 A simple TensorFlow/Keras model trained on the MNIST dataset.
 
-[View Notebook export](https://htmlpreview.github.io/?https://github.com/lkurcak/mnist-demo/blob/main/MNIST%20digit%20recognition.html)
+[Click here to preview](MNIST%20digit%20recognition/MNIST%20digit%20recognition.md)
